@@ -44,7 +44,7 @@ const Header = () => {
 				<Container>
 					<Toolbar>
 						<Typography
-							onClick={() => navigate("/Cryptocurrency-Exchange-using-Blockchain")}
+							onClick={() => navigate("/crypto_panda")}
 							className={classes.title}
 							variant="h5"
 						>
