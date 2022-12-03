@@ -10,11 +10,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.pinimg.com/originals/87/5c/94/875c941631be00056a8c77d906e87033.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.pinimg.com/originals/87/5c/94/875c941631be00056a8c77d906e87033.jpg" alt="project-screenshot" width="800" height="400/">
 
-<img src="https://i.pinimg.com/originals/4e/f2/28/4ef228e0ef3c19ccc138f21d5fdea0f0.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.pinimg.com/originals/4e/f2/28/4ef228e0ef3c19ccc138f21d5fdea0f0.jpg" alt="project-screenshot" width="800" height="400/">
 
-<img src="https://i.pinimg.com/originals/2f/c9/f5/2fc9f535a0559fda1083abacafdc7e40.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.pinimg.com/originals/2f/c9/f5/2fc9f535a0559fda1083abacafdc7e40.jpg" alt="project-screenshot" width="800" height="400/">
 
   
   
