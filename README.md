@@ -53,7 +53,7 @@ npx hardhat run scripts/deploy.js --network localhost
 <p>4. Finally we can run the frontend with:</p>
 
 ```
-cd client
+cd ceypto_psych
 npm install
 npm start
 ```
