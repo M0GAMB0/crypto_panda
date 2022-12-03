@@ -33,6 +33,9 @@ Here're some of the project's best features:
 
 ```
 git clone https://github.com/M0GAMB0/crypto_panda.git
+cd smart_contracts
+npm install
+
 ```
 
 <p>2. Once installed let's run Hardhat's testing network:</p>
@@ -50,8 +53,25 @@ npx hardhat run scripts/deploy.js --network localhost
 <p>4. Finally we can run the frontend with:</p>
 
 ```
-cd client npm install npm start
+cd client
+npm install
+npm start
 ```
+Open [http://localhost:3000/](http://localhost:3000/) to see your Dapp. You will
+need to have [Metamask](https://metamask.io) installed and listening to
+`localhost 8545`.
+
+## User Guide
+
+You can find detailed instructions on using this repository and many tips in [its documentation](https://hardhat.org/tutorial).
+
+- [Writing and compiling contracts](https://hardhat.org/tutorial/writing-and-compiling-contracts/)
+- [Setting up the environment](https://hardhat.org/tutorial/setting-up-the-environment/)
+- [Testing Contracts](https://hardhat.org/tutorial/testing-contracts/)
+- [Setting up Metamask](https://hardhat.org/tutorial/boilerplate-project#how-to-use-it)
+- [Hardhat's full documentation](https://hardhat.org/docs/)
+
+For a complete introduction to Hardhat, refer to [this guide](https://hardhat.org/getting-started/#overview).
 
 <h2>🛡️ License:</h2>
 
